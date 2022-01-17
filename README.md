@@ -21,4 +21,4 @@ Run time for original code 1.070923 after refactoring the code the run time redu
 **In Summary**
 RUN and ENPH provide the best return on investment, based on the analysis provided.
 Refactoring a script allows the code to run faster through the data than without refactoring. This can be very useful when using large data files.  Refactoring reduced the number of lines in the code, creating a more effective code.  
-Pros to using refactoring is the ability to go through large data files in the quickest time posible.  It allows for time studies on analysis to see where there may be room to improve the code.
+Pros to using refactoring is the ability to go through large data files in the quickest time possible.  It allows for time studies on analysis to see where there may be room to improve the code.
